@@ -8,6 +8,12 @@
 
 #import <UIKit/UIKit.h>
 
-@interface PrincipalViewController : UIViewController
+@interface PrincipalViewController : UIViewController <UIPickerViewDelegate,UIPickerViewDataSource>
+
+
+@property (nonatomic, weak) IBOutlet UIPickerView *picker;
+@property (nonatomic, weak) IBOutlet UIImageView *imagem;
+
+@property (nonatomic, strong) IBOutlet NSMutableArray *estados;
 
 @end

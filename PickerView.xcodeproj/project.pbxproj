@@ -20,6 +20,18 @@
 		6A0C6FE215EE40A100C17080 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6A0C6FC315EE40A000C17080 /* Foundation.framework */; };
 		6A0C6FEA15EE40A100C17080 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 6A0C6FE815EE40A100C17080 /* InfoPlist.strings */; };
 		6A0C6FED15EE40A100C17080 /* PickerViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A0C6FEC15EE40A100C17080 /* PickerViewTests.m */; };
+		6A0C700215EE40F600C17080 /* atletico-pr.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A0C6FF615EE40F600C17080 /* atletico-pr.png */; };
+		6A0C700315EE40F600C17080 /* botafogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A0C6FF715EE40F600C17080 /* botafogo.png */; };
+		6A0C700415EE40F600C17080 /* corinthians.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A0C6FF815EE40F600C17080 /* corinthians.png */; };
+		6A0C700515EE40F600C17080 /* coritiba.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A0C6FF915EE40F600C17080 /* coritiba.png */; };
+		6A0C700615EE40F600C17080 /* flamengo.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A0C6FFA15EE40F600C17080 /* flamengo.png */; };
+		6A0C700715EE40F600C17080 /* fluminense.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A0C6FFB15EE40F600C17080 /* fluminense.png */; };
+		6A0C700815EE40F600C17080 /* gremio.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A0C6FFC15EE40F600C17080 /* gremio.png */; };
+		6A0C700915EE40F600C17080 /* internacional.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A0C6FFD15EE40F600C17080 /* internacional.png */; };
+		6A0C700A15EE40F600C17080 /* palmeiras.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A0C6FFE15EE40F600C17080 /* palmeiras.png */; };
+		6A0C700B15EE40F600C17080 /* santos.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A0C6FFF15EE40F600C17080 /* santos.png */; };
+		6A0C700C15EE40F600C17080 /* sao-paulo.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A0C700015EE40F600C17080 /* sao-paulo.png */; };
+		6A0C700D15EE40F600C17080 /* vasco.png in Resources */ = {isa = PBXBuildFile; fileRef = 6A0C700115EE40F600C17080 /* vasco.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +64,18 @@
 		6A0C6FE915EE40A100C17080 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		6A0C6FEB15EE40A100C17080 /* PickerViewTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PickerViewTests.h; sourceTree = "<group>"; };
 		6A0C6FEC15EE40A100C17080 /* PickerViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PickerViewTests.m; sourceTree = "<group>"; };
+		6A0C6FF615EE40F600C17080 /* atletico-pr.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "atletico-pr.png"; sourceTree = "<group>"; };
+		6A0C6FF715EE40F600C17080 /* botafogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = botafogo.png; sourceTree = "<group>"; };
+		6A0C6FF815EE40F600C17080 /* corinthians.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = corinthians.png; sourceTree = "<group>"; };
+		6A0C6FF915EE40F600C17080 /* coritiba.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = coritiba.png; sourceTree = "<group>"; };
+		6A0C6FFA15EE40F600C17080 /* flamengo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = flamengo.png; sourceTree = "<group>"; };
+		6A0C6FFB15EE40F600C17080 /* fluminense.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fluminense.png; sourceTree = "<group>"; };
+		6A0C6FFC15EE40F600C17080 /* gremio.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gremio.png; sourceTree = "<group>"; };
+		6A0C6FFD15EE40F600C17080 /* internacional.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = internacional.png; sourceTree = "<group>"; };
+		6A0C6FFE15EE40F600C17080 /* palmeiras.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = palmeiras.png; sourceTree = "<group>"; };
+		6A0C6FFF15EE40F600C17080 /* santos.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = santos.png; sourceTree = "<group>"; };
+		6A0C700015EE40F600C17080 /* sao-paulo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sao-paulo.png"; sourceTree = "<group>"; };
+		6A0C700115EE40F600C17080 /* vasco.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = vasco.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +105,7 @@
 		6A0C6FB215EE40A000C17080 = {
 			isa = PBXGroup;
 			children = (
+				6A0C700E15EE410600C17080 /* times */,
 				6A0C6FC715EE40A000C17080 /* PickerView */,
 				6A0C6FE515EE40A100C17080 /* PickerViewTests */,
 				6A0C6FC015EE40A000C17080 /* Frameworks */,
@@ -149,6 +174,25 @@
 				6A0C6FE815EE40A100C17080 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		6A0C700E15EE410600C17080 /* times */ = {
+			isa = PBXGroup;
+			children = (
+				6A0C6FF615EE40F600C17080 /* atletico-pr.png */,
+				6A0C6FF715EE40F600C17080 /* botafogo.png */,
+				6A0C6FF815EE40F600C17080 /* corinthians.png */,
+				6A0C6FF915EE40F600C17080 /* coritiba.png */,
+				6A0C6FFA15EE40F600C17080 /* flamengo.png */,
+				6A0C6FFB15EE40F600C17080 /* fluminense.png */,
+				6A0C6FFC15EE40F600C17080 /* gremio.png */,
+				6A0C6FFD15EE40F600C17080 /* internacional.png */,
+				6A0C6FFE15EE40F600C17080 /* palmeiras.png */,
+				6A0C6FFF15EE40F600C17080 /* santos.png */,
+				6A0C700015EE40F600C17080 /* sao-paulo.png */,
+				6A0C700115EE40F600C17080 /* vasco.png */,
+			);
+			name = times;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -225,6 +269,18 @@
 			files = (
 				6A0C6FCC15EE40A000C17080 /* InfoPlist.strings in Resources */,
 				6A0C6FD515EE40A000C17080 /* MainStoryboard.storyboard in Resources */,
+				6A0C700215EE40F600C17080 /* atletico-pr.png in Resources */,
+				6A0C700315EE40F600C17080 /* botafogo.png in Resources */,
+				6A0C700415EE40F600C17080 /* corinthians.png in Resources */,
+				6A0C700515EE40F600C17080 /* coritiba.png in Resources */,
+				6A0C700615EE40F600C17080 /* flamengo.png in Resources */,
+				6A0C700715EE40F600C17080 /* fluminense.png in Resources */,
+				6A0C700815EE40F600C17080 /* gremio.png in Resources */,
+				6A0C700915EE40F600C17080 /* internacional.png in Resources */,
+				6A0C700A15EE40F600C17080 /* palmeiras.png in Resources */,
+				6A0C700B15EE40F600C17080 /* santos.png in Resources */,
+				6A0C700C15EE40F600C17080 /* sao-paulo.png in Resources */,
+				6A0C700D15EE40F600C17080 /* vasco.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
